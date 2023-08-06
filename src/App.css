@@ -291,9 +291,9 @@ white-space: nowrap;}
 
 .vector-2 {
 height: 30px; 
-margin-left: 200px; 
+margin-left: 220px; 
 margin-top: 1px;
-width: 18px;
+width: 12px;
 }
 .brokerage-services-b { 
 /* align-self: flex-start; */
@@ -347,7 +347,7 @@ margin-top: 1px;
   font-size: var(--font-size-m);
   font-weight: 700;
   font-style: normal;
-  margin-left: 120px;
+  margin-left: 110px;
 
 }
 .sagrandir-extra-extra-bold-white-193px{
