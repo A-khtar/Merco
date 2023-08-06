@@ -35,7 +35,7 @@ function CashApp(props){
     SpanText12,
     Vector2,
     SpanText13,
-    Vector3,
+    //Vector3,
     SpanText14,
     Buttons,
   } = props;
@@ -135,7 +135,7 @@ function CashApp(props){
                               </div>
                             </div>
                           </div>
-                          <img className='vector-2' src={Vector3} alt="Vector"/>
+                          <img className='vector-2' src="./vector-3.png" alt="Vector"/>
                           <p className='brokerage-service-b  mulish-bold-pink-swan-10px'>
                             <span className='mulish-bold-pink-swan-10px'>{SpanText14}</span>
                           </p>
@@ -183,7 +183,7 @@ Layer1: "Layer 1.png",
 SpanText12: "APP STORE",
 Vector2: "vector-2.png",
 SpanText13: "GOOGLE PLAY",
-Vector3: "vector-3.png",
+//Vector3: "vector-3.png",
 Vector1: "vector-1.png", 
 SpanText14: (
 <React.Fragment><br/>
