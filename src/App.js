@@ -1,6 +1,6 @@
 import "./App.css";
 import React from 'react';
-import './index.css';
+
 
 
 function App() {
@@ -35,7 +35,7 @@ function CashApp(props){
     SpanText12,
     Vector2,
     SpanText13,
-    //Vector3,
+    // Vector3,
     SpanText14,
     Buttons,
   } = props;
@@ -52,12 +52,12 @@ function CashApp(props){
                 <span className='agrandir-extra-extra-bold-white-12px'>{SpanText1}</span>
                  </span>
                  </div>
-                 <div className='navbar-link-place valign-text-middle'>
+                 <div className='navbar-link-legal valign-text-middle'>
                   <span>
                     <span className='agrandir-extra-extra-bold-white-12px'>{SpanText2}</span>
                   </span>
                   </div>
-                 <div className='navbar-link-place valign-text-middle'>
+                 <div className='navbar-link-licences valign-text-middle'>
                   <span>
                     <span className='agrandir-extra-extra-bold-white-12px'>{SpanText3}</span>
                   </span>
@@ -77,7 +77,7 @@ function CashApp(props){
                     <span className='agrandir-extra-extra-bold-white-12px'>{SpanText6}</span>
                   </span>
                   </div>
-                  <div className='navbar-link valign-text-middle'>
+                  <div className='navbar-link-support valign-text-middle'>
                   <span>
                   <span className='agrandir-extra-extra-bold-white-12px'>{SpanText7}</span>
                   </span>
@@ -98,14 +98,14 @@ function CashApp(props){
                     <div className='hero'>
                       <div className='overlap-group agrandir-extra-extra-bold-white-193px'>
                         <img className='layer-1' src = {Layer1} alt='Layer 1'/>
-                        <h1 className=' name valign-text-middle'>
+                        <h1 className='name valign-text-middle'>
                         <span>
                             <span className='sagrandir-extra-extra-bold-white-193px'>{SpanText10}</span>
                         </span>
                         </h1>
                         <img className='intro-phone-1' src = {IntroPhone1} alt='intro-phone 1'/>
                         <div className='app valign-text-middle'>
-                        <span>
+                        <span >
                             <span className='agrandir-extra-extra-bold-white-193px'>{SpanText11}</span>
                         </span>
                         </div>
@@ -183,7 +183,7 @@ Layer1: "Layer 1.png",
 SpanText12: "APP STORE",
 Vector2: "vector-2.png",
 SpanText13: "GOOGLE PLAY",
-//Vector3: "vector-3.png",
+// Vector3: "vector-3.png",
 Vector1: "vector-1.png", 
 SpanText14: (
 <React.Fragment><br/>
