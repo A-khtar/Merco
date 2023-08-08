@@ -135,7 +135,7 @@ function CashApp(props){
                               </div>
                             </div>
                           </div>
-                          <img className='vector-2' src="./vector-3.png" alt="Vector"/>
+                          <img className='vector-2' src="./Vector-3.png" alt="Vector"/>
                           <p className='brokerage-service-b  mulish-bold-pink-swan-10px'>
                             <span className='mulish-bold-pink-swan-10px'>{SpanText14}</span>
                           </p>
